@@ -1,3 +1,4 @@
-# My Awesome Book
+# What is Turnitin?
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Turnitin is a web-based plagiarism detection service that allows instructors to easily check student papers for unoriginal material. Instructors can now create assignments within their Blackboard courses that can be submitted directly to Turnitin.
+
