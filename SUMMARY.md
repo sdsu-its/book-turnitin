@@ -5,4 +5,5 @@
 * [Viewing Assignment and Similarity Report](chapter-2.md)
 * [Grading a Turnitin Assignment](grading-a-turnitin-assignment.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
+* [Useful Links & Contacts](useful-links.md)
 
