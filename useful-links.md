@@ -2,7 +2,7 @@
 
 [https://guides.turnitin.com/01\_Manuals\_and\_Guides/Instructor\_Guides/Feedback\_Studio](https://guides.turnitin.com/01_Manuals_and_Guides/Instructor_Guides/Feedback_Studio)
 
-[https://guides.turnitin.com/01\_Manuals\_and\_Guides/Instructor\_Guides/Feedback\_Studioutm\_source=Email or Mail Campaign&utm\_campaign=NOA\_Tii\_Classic\_End\_of\_Life&utm\_medium=e](https://guides.turnitin.com/01_Manuals_and_Guides/Instructor_Guides/Feedback_Studioutm_source=Email or Mail Campaign&utm_campaign=NOA_Tii_Classic_End_of_Life&utm_medium=e)mail
+[https://guides.turnitin.com/01\_Manuals\_and\_Guides/Instructor\_Guides/Feedback\_Studioutm\_source=Email or Mail Campaign&utm\_campaign=NOA\_Tii\_Classic\_End\_of\_Life&utm\_medium=e](https://guides.turnitin.com/01_Manuals_and_Guides/Instructor_Guides/Feedback_Studioutm_source=Email or Mail Campaign&utm_campaign=NOA_Tii_Classic_End_of_Life&utm_medium=e)mail 
 
 #### Quick Tips for Mastering Feedback Studio​:
 
