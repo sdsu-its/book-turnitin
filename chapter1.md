@@ -1,18 +1,18 @@
 # Creating a Turnitin Assignment:
 
-1. Select a **content area** \(Course Materials, Assignments, etc.\) in the Blackboard course. 
+1. Select a **content area** \(Course Materials, Assignments, etc.\) in the Blackboard course.
 
-1. Select the chevron down arrows in **Create Assessment**.
+2. Select the chevron down arrows in **Create Assessment**.
 
-2. Select** Turnitin Assignment​** from the +Select​ drop-down menu.
+3. Select** Turnitin Assignment​** from the +Select​ drop-down menu.
 
-3. Once the Turnitin page opens, select the "**Assignment Type**": Paper Assignment​ or Revision Assignment. Both a Revision Assignment and a Peer Mark Assignment require an existing initial Paper Assignment.
+4. Once the Turnitin page opens, select the "**Assignment Type**": Paper Assignment​ or Revision Assignment. Both a Revision Assignment and a Peer Mark Assignment require an existing initial Paper Assignment.
 
 ![](/assets/TurnitinHome.PNG)
 
 1. Click the **Next Step​ **button.
 
-2. For a **Paper Assignment**​, specify general information including assignment title, points possible, start date, due date, and post date \(if you are using GradeMark\), and then click **Optional settings**​. Return twice in the “Instructions” dialog box before typing to separate the text from the system-generated disclaimer.
+2. For a **Paper Assignment**​, specify general information including assignment title, points possible, start date, due date, and post date \(if you are using GradeMark\), and then click **Optional settings**​. Return twice in the “Instructions” dialog box before typing to separate the text from the system-generated disclaimer.![](/assets/TurnitinOptions.PNG)
 
 3. **Note**: When you create a Turnitin Assignment within Blackboard, then a column in** Blackboard’s Grade Center**​ will appear. **Do not break the link by deleting this column.**
 
