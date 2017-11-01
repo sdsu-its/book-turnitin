@@ -2,9 +2,9 @@
 
 [https://guides.turnitin.com/01\_Manuals\_and\_Guides/Instructor\_Guides/Feedback\_Studio](https://guides.turnitin.com/01_Manuals_and_Guides/Instructor_Guides/Feedback_Studio)
 
-#### Quick Tips for Mastering Feedback Studio​:
+#### Quick Tips for Mastering Feedback Studio​: 
 
-https://guides.turnitin.com/01\_Manuals\_and\_Guides/Instructor\_Guides/Feedback\_Studio/01\_Quick\_Tips\_for\_Mastering\_Feedback\_Studio
+[https://guides.turnitin.com/01\_Manuals\_and\_Guides/Instructor\_Guides/Feedback\_Studio/01\_Quick\_Tips\_for\_Mastering\_Feedback\_Studio](https://guides.turnitin.com/01_Manuals_and_Guides/Instructor_Guides/Feedback_Studio/01_Quick_Tips_for_Mastering_Feedback_Studio)
 
 #### Help and Technical Support For instructors/faculty​, please contact:
 
