@@ -1,4 +1,4 @@
-# Creating a Turnitin Assignment:
+# Creating a Turnitin Assignment
 
 1. Select a **content area** \(Course Materials, Assignments, etc.\) in the Blackboard course.
 

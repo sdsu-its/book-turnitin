@@ -1,4 +1,4 @@
-# Viewing a Turnitin Assignment and Similarity Report -
+# Viewing a Turnitin Assignment and Similarity Report 
 
 ​Instructors can view the student's Turnitin submission through the Control Panel and the Turnitin Assignments tool.
 
