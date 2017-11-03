@@ -1,10 +1,10 @@
 #### Feedback Studio
 
-[](https://goo.gl/o81KCm "Feedback Studio")
+[Feedback Studio](https://goo.gl/o81KCm)
 
 #### Quick Tips for Mastering Feedback Studio​:
 
-[](https://goo.gl/1gbTjq "Quick Tips for Mastering Feedback Studio")
+[Quick Tips for Mastering Feedback Studio](https://goo.gl/1gbTjq)
 
 #### Help and Technical Support For instructors/faculty​, please contact:
 
