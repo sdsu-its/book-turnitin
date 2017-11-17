@@ -10,5 +10,5 @@ Instructors can view a student's Turnitin submission as well as the associated T
 
 4. Click on **the pencil icon**​ in the “**Grade​**” column to use GradeMark in **Turnitin Feedback Studio** ​window.
 
-![](/assets/GradeColumnTurnitin.PNG)\(When students turn in their papers the pencil icon will appear along with the other information regarding their submission\)\_
+![](/assets/GradeColumnTurnitin.PNG)\(When students turn in their papers the pencil icon will appear along with the other information regarding their submission\)
 
