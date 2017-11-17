@@ -1,6 +1,6 @@
 # Grading a Turnitin Assignment​ 
 
-### Instructors can view a student's Turnitin submission as well as the associated Turnitin Similarity Report and also grade a Turnitin assignment through Turnitin’s GradeMark​.
+Instructors can view a student's Turnitin submission as well as the associated Turnitin Similarity Report and also grade a Turnitin assignment through Turnitin’s GradeMark​.
 
 1. Access the **Control Panel**​ of your Blackboard course -&gt; Course Tools
 
