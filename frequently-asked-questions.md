@@ -2,7 +2,7 @@
 
 #### What file formats does Turnitin support?
 
-Turnitin supports Microsoft Word \(.doc & .docx\), plain text \(TXT\), rich text \(RTF\), PDF, HTML, WordPerfect, PostScript. Files must be less than 20 MB. The maximum paper length is 400 pages. Note: Turnitin does not compare matching images or images of graphs and charts. ​Note​: Turnitin does not accept PowerPoint files, media files, or a document with only images.
+Turnitin supports Microsoft Word \(.doc & .docx\), plain text \(TXT\), rich text \(RTF\), PDF, HTML, WordPerfect, PostScript. Files must be less than 20 MB. The maximum paper length is 400 pages. Note: Turnitin does not compare matching images or images of graphs and charts. ​Note​: **Turnitin requires a minimum of 20 words** and therefore it does not accept PowerPoint files, media files, or a document with only images.
 
 #### How many Turnitin Similarity Reports can be generated?
 
