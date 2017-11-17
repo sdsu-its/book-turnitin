@@ -7,9 +7,11 @@
 2. Select **Turnitin Assignments**.
     ![](/assets/Capture2.JPG)
 
-3. Click on the **title​** for the Turnitin assignment.![](/assets/TurnitinAssignmentReports.PNG)
+3. Click on the **title​** for the Turnitin assignment.
+    ![](/assets/Title Highlight.JPG)
 
 4. Click on the percentage figure located under the "**Similarity**​" column to view the originality report of the student report.
+    ![](/assets/Similarity Report.JPG)
 
 
 

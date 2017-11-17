@@ -9,6 +9,4 @@ Instructors can view a student's Turnitin submission as well as the associated T
 3. Click on the **title**​ for the Turnitin assignment.
 
 4. Click on **the pencil icon**​ in the “**Grade​**” column to use GradeMark in **Turnitin Feedback Studio** ​window.
-
-![](/assets/GradeColumnTurnitin.PNG)
-
+    ![](/assets/Pencil Icon.JPG)
